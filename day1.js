@@ -4,7 +4,7 @@ db.day1.find();// i have named as day1
 
 //2.Find the product price which are between 400 to 800
 
-db.day1.find({product_price :{$gt:400,$lt:600}});
+db.day1.find({product_price :{$gt:400,$lt:800}});
 
 //3.Find the product price which are not between 400 to 600
 
