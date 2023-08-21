@@ -289,3 +289,16 @@ db.students.aggregate([
       }
     }
   ]);
+
+
+  db.day1.aggregate([{
+    $group:{
+      _id: "$product_material",
+      sumProduct:{
+        $sum:'$product_price'
+      }
+    }
+  }])
+
+
+ 

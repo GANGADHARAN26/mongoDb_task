@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "topic": "array",
+        "difficulty": "easy",
+        "total_problems": "50"
+    },
+    {
+        "id": "2",
+        "topic": "string",
+        "difficulty": "easy",
+        "total_problems": "50"
+        
+    },
+    {
+        "id": "3",
+        "topic": "linkedlist",
+        "difficulty": "medium",
+        "total_problems": "50"
+
+    },
+    {
+        "id": "4",
+        "topic": "stack",
+        "difficulty": "hard",
+        "total_problems": "50"
+    },
+    {
+        "id": "5",
+        "topic": "hashmap",
+        "difficulty": "hard",
+        "total_problems": "50"
+    }
+
+]
